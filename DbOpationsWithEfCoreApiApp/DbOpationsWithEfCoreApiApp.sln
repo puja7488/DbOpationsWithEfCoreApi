@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbOpationsWithEfCoreApiApp", "DbOpationsWithEfCoreApiApp\DbOpationsWithEfCoreApiApp.csproj", "{DBEEDBBD-7915-4108-BE91-901989DB7552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBEEDBBD-7915-4108-BE91-901989DB7552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEEDBBD-7915-4108-BE91-901989DB7552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEEDBBD-7915-4108-BE91-901989DB7552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEEDBBD-7915-4108-BE91-901989DB7552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F85E228-1B45-4347-A6F6-F7788925685F}
+	EndGlobalSection
+EndGlobal
